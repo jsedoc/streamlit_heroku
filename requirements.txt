@@ -208,7 +208,6 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
-librosa==0.10.1
 lightgbm==4.1.0
 linkify-it-py==2.0.3
 llvmlite==0.41.1
